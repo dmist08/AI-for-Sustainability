@@ -1,0 +1,24 @@
+# Data (downloaded at runtime via Kaggle API)
+data/
+
+# Credentials
+kaggle.json
+
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Assignment PDF/txt
+*.txt
+*.tex
